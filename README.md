@@ -9,3 +9,6 @@ Details Coming Soon!
 
 ## Contributing
 Feel free to submit pull requests or open issues!
+
+## Merge Conflict Change from Main
+changing readme file from master barnch

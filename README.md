@@ -10,5 +10,6 @@ Details Coming Soon!
 ## Contributing
 Feel free to submit pull requests or open issues!
 
-## Merge Conflict from feature api branch
-changing readme file from feature api branch.
+## Merge Conflict Change from Main
+changing readme file from master barnch
+

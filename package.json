@@ -1,0 +1,26 @@
+{
+  "name": "acme-widget",
+  "version": "1.0.0",
+  "description": "This project is a practice app for mastering Git Fundamentals.",
+  "main": "api.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yonetaro/acme-widget.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yonetaro/acme-widget/issues"
+  },
+  "homepage": "https://github.com/yonetaro/acme-widget#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}

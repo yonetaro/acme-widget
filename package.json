@@ -7,6 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
+    "dev": "node app.js",
     "test": "jest"
   },
   "repository": {
@@ -22,5 +23,8 @@
   "homepage": "https://github.com/yonetaro/acme-widget#readme",
   "devDependencies": {
     "jest": "^30.5.2"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
   }
 }
